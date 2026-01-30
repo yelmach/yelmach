@@ -1,7 +1,3 @@
-# 💫 About Me:
-# 💫 About Me:<br>👋 Hi, my name is yassine<br>👀 I’m a full stack developer<br>💞️ I’m Open to collaborations where I can grow my skills on web development
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yelmach/) 
 
